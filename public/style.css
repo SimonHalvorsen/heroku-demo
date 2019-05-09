@@ -8,3 +8,13 @@ h1 {
     font-family: Helvetica;
 }
 
+.image {
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform;
+}
+.image:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+
