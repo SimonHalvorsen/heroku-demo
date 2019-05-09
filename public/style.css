@@ -20,7 +20,7 @@ h1 {
 
 .image {
     position: absolute;
-    padding: 50vw;
+    padding: 50vh 50vw;
     margin:auto auto auto auto;
     -webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
